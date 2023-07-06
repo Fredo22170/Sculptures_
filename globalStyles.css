@@ -8,6 +8,10 @@ body {
 	overflow-x: hidden;
 	visibility: hidden;
 }
+.telstyle {
+	text-decoration: none;
+	color: white;
+}
 section {
 	padding: 100px 0;
 }
